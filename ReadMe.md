@@ -29,4 +29,4 @@ The following processing times were seen in a test based on [the 2018 Lone Wolf 
 ## License
 
 The program is made available under the terms of the GNU GPL, version 3.
-See the 'License' file.
+See the 'License.txt' file.
